@@ -1,4 +1,4 @@
-**个人博客**：http://t.aissues.com/
+**个人博客**：https://blog.csdn.net/xuehu837769474
 
 ## 一、React-Native入门指南
 
@@ -13,10 +13,9 @@
 + [lesson9: React Native 和 Native代码集成](https://github.com/vczero/react-native-lesson/blob/master/lesson9.md)        
 
 
-
 ## 二、上线参考案例
 
-### 厕所在哪（已上线，可以在iOS App store下载）：https://github.com/vczero/toilet         
+### （已上线，可以在iOS App store下载）：https://github.com/vczero/toilet         
     React Native完全开发的独立App，支持ES6语法，已更新到0.30版本，App store上线第一周破百，工具类App。      
 
 ## 三、一般参考案例：
@@ -36,19 +35,9 @@ React Native Tab二级菜单组件：https://github.com/vczero/react-native-tab
 + 1. 2015年7月18日在oschina分享PPT: https://github.com/vczero/react-native-lession/blob/master/React-Native开发原生iOSApp携程vczero.ppt       
 + 2. 个人公司内部培训分享：https://github.com/vczero/sharePPT  
 + 3. 2015年12月12日开源中国年终盛典北京分享：http://vczero.github.io/react_native/H5-React-Native-Native.html         
-+ 4. ppt & 视频： http://www.oschina.net/question/1032619_2145293  PPT:王利华-osc2015年北京年终盛典演讲.pptx    
-
-
-## 六、《React Native入门与实战》图书购买地址：
-           
-         目前京东、互动、天猫均有售                    
-         http://item.jd.com/11844102.html     (京东自营)                    
-         http://item.jd.com/10089706582.html        
-         http://item.jd.com/10089810271.html       
++ 4. ppt & 视频： http://www.oschina.net/question/1032619_2145293  PPT:王利华-osc2015年北京年终盛典演讲.pptx           
  
- ![](http://img12.360buyimg.com/n1/jfs/t2230/225/1782466650/242239/49882b5d/567a1913N46db602f.png)        
- 
-## 七、《React Native入门与实战》章节分配           
+## 六、《React Native入门与实战》章节分配           
 
 | 章节        | 标题           | 作者  |
 | ------------- |:-------------:| -----:|
